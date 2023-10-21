@@ -1,0 +1,42 @@
+Question 1: The five elements of blockchain are distribution, encryption, immutability, tokenization and:
+1.Transparency
+2. Authorisation
+3. Efficiency
+4. Decentralization
+
+Ans: 4. Decentralization
+
+Question 2: What is one of the benefits of using blockchain technology in logistics and supply chain management?
+
+1. Increased human error and conflicts
+2. Reduced transparency in transactions
+3. Enhanced traceability and security
+4. Lower inventory control
+
+Answer: 3. Enhanced traceability and security
+
+Question 3: What is one of the challenges associated with integrating blockchain into logistics and supply chain management?
+
+1. Decreased data privacy
+2. Simplicity and low energy consumption
+3. Broad stakeholder adoption
+4. Scalability issues
+
+Answer: 4. Scalability issues
+
+
+Question 4: which of the following are the problems related to Supply chain management?
+1. Cyberattacks
+2. Critical product Stockouts
+3. Lack of end to end visibility
+4. All of the above
+
+Ans: 4: All of the above
+
+Question 5: Which of the following are not the challenges of supply chain?
+1.Relatively very fast
+2. Lack of trust
+3. High cost
+4. Poor customer service
+
+Ans: 1.Relatively very fast
